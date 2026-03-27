@@ -1,7 +1,7 @@
 # Java Programming Assignment
 
-**Student Name:** Badwaik Sarthak Arvind 
-**Enrollment Number:** 12402080601124  
+**Student Name:** Prajapati Shravan Chunilal 
+**Enrollment Number:** 12402080601129
 **Course:** Java Programming  
 **Semester:** 4
 
